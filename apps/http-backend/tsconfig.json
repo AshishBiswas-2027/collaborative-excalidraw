@@ -1,0 +1,10 @@
+//yaha apna ts config ws aur http baackend me banane se accha hai k jo k already prestn base.json hai typescript.config me packages k andar waha se sort of import kar le . kyuki monorepo use kar rahe hai toh code repition se better hai k already preent code hi use kar le
+
+//as a dependency add karna hoga 
+
+//manually add kar rahe hai toh globally install b karna hoga usinf pnpm install 
+
+
+{
+    "extends": "@repo/typescript-config/base.json"
+}
